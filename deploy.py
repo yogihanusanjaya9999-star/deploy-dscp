@@ -11,6 +11,8 @@ Original file is located at
 import streamlit as st
 import pandas as pd
 import numpy as np
+import matplotlib
+matplotlib.use("Agg")   # WAJIB UNTUK DEPLOY STREAMLIT
 import matplotlib.pyplot as plt
 import seaborn as sns
 from io import BytesIO
