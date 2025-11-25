@@ -1,11 +1,10 @@
-streamlit
-pandas
-numpy
 matplotlib
-seaborn
+numpy
+pandas
 scikit-learn
+seaborn
 openpyxl
-
+streamlit
 
 
 
