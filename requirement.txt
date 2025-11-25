@@ -1,10 +1,11 @@
-matplotlib
-numpy
-pandas
-scikit-learn
-seaborn
-openpyxl
 streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+openpyxl
+xlrd
 
 
 
